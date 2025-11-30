@@ -2,7 +2,7 @@
 
 
 
-'m passionate about working towards creating software that helps shape the real world, and I'm always interested in contributing to open source projects when I can.
+I'm passionate about working towards creating software that helps shape the real world, and I'm always interested in contributing to open source projects when I can.
 
 - 🔭 I’m currently working on ...
 - [Kino Game](github.com/pkap1213/KinoGame): A Java FX game based on the lottery game Kino.
