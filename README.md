@@ -6,6 +6,6 @@ I'm passionate about working towards creating software that helps shape the real
 
 - 🔭 I’m currently working on ...
 - [Kino Game](/KinoGame): A Java FX game based on the lottery game Kino.
-- [3 Card Blackjack](g/3CardBlackJack): A Java FX game of 3 Card Blackjack complete with server support.
-- [Mr. Grape](/MrGrape-JS): A Multipurpose Discord bot that does a wide variety of features.
+- [3 Card Blackjack](3CardBlackJack): A Java FX game of 3 Card Blackjack complete with server support.
+- [Mr. Grape](https://github.com/pkap1213/Mr.Grape-JS)): A Multipurpose Discord bot that does a wide variety of features.
 
