@@ -7,5 +7,5 @@ I'm passionate about working towards creating software that helps shape the real
 - 🔭 I’m currently working on ...
 - [Kino Game](github.com/pkap1213/KinoGame): A Java FX game based on the lottery game Kino.
 - [3 Card Blackjack](github.com/pkap1213/3CardBlackJack): A Java FX game of 3 Card Blackjack complete with server support.
-- [Mr. Grape](github.com/pkap1213/Mr.Grape-JS): A Multipurpose Discord bot that does a wide variety of features.
+- [Mr. Grape](pkap1213/MrGrape-JS): A Multipurpose Discord bot that does a wide variety of features.
 
